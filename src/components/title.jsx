@@ -1,7 +1,7 @@
 import React, { memo } from "react";
 
 import "../styles/title.scss";
-
+ 
 const Title = memo(() => {
   return (
     <section className="title_container">
@@ -13,7 +13,7 @@ const Title = memo(() => {
         <h1></h1>
         <h2>Full Stack Software Developer</h2>
         <h4>
-          <a href="#">Download CV</a>
+          <a href="https://drive.google.com/file/d/1wDnmk-VvjPfAV2PdjIXulaglOLOg6RRS/view?usp=sharing">Download CV</a>
         </h4>
       </div>
     </section>
