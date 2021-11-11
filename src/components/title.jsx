@@ -13,7 +13,7 @@ const Title = memo(() => {
         <h1></h1>
         <h2>Full Stack Software Developer</h2>
         <h4>
-          Enjoy exploring...
+          <a href="#">Download CV</a>
         </h4>
       </div>
     </section>
